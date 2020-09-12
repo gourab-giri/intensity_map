@@ -1,0 +1,7 @@
+fr = 400
+phi =1.0e-40
+theta =0.349065
+emission_name =J0p14GHz
+unitlength =4.0182292e19
+r_congrid = 256
+z_congrid = 256
